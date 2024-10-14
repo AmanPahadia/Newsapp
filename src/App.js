@@ -9,7 +9,7 @@ const App = () => {
   const [progress, setProgress] = useState(0);
 
   // const setProgress = (progress) => {
-  //   setProgress(progress);
+  // setProgress(progress);
   // };
 
   return (
