@@ -10,7 +10,7 @@ const App = () => {
 
   // const setProgress = (progress) => {
   // setProgress(progress);
-  // };
+  //};
 
   return (
     <div>
