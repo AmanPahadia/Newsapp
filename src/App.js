@@ -8,7 +8,7 @@ const App = () => {
   const pageSize = 5;
   const [progress, setProgress] = useState(0);
 
-  // const setProgress = (progress) => {
+  // const setProgress =(progress) => {
   // setProgress(progress);
   //};
 
